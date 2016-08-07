@@ -13,6 +13,6 @@ theme: minima
 
 gems: [jekyll-paginate]
 gems: [jekyll-paginate, jekyll-coffeescript, jekyll-watch, jekyll-assets]
-paginate: 3 # number of posts you want per page
+paginate: 2 # number of posts you want per page
 #paginate_path: "/blog/"
 paginate_path: "/blog/page:num/"

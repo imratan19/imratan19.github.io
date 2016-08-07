@@ -2,7 +2,6 @@
 layout: post
 title:  "a name for xenia"
 date:   2016-07-02 12:22:46 +0530
-permalink: name-xenia
 categories: shorts family
 ---
 xenia is a concept of empathy in greek mythology. i named my daughter thus so that she grows up to be a compassionate woman.
