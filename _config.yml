@@ -5,6 +5,7 @@ url: "http://blog.ratan.me" # the base hostname & protocol for your site
 #twitter_username: imratan19
 #github_username:  jekyll
 #excerpt_separator: <!--more--> 
+nav-search: search
 
 # Build settings
 markdown: kramdown
