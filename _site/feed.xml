@@ -5,9 +5,22 @@
     <description></description>
     <link>http://blog.ratan.me/</link>
     <atom:link href="http://blog.ratan.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Aug 2016 00:23:20 +0530</pubDate>
-    <lastBuildDate>Mon, 08 Aug 2016 00:23:20 +0530</lastBuildDate>
+    <pubDate>Mon, 08 Aug 2016 01:01:37 +0530</pubDate>
+    <lastBuildDate>Mon, 08 Aug 2016 01:01:37 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>yawn</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/doodles/yawn.png&quot; alt=&quot;yawn&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 16 Jul 2016 21:51:01 +0530</pubDate>
+        <link>http://blog.ratan.me/yawn</link>
+        <guid isPermaLink="true">http://blog.ratan.me/yawn</guid>
+        
+        
+        <category>doodles</category>
+        
+      </item>
     
       <item>
         <title>the climax</title>
