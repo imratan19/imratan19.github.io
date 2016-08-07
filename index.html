@@ -32,12 +32,16 @@ category: shorts
     {% endif %}
   </div-->
     <div class="PageNavigation">
-
+ {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; Newer posts</a>
-
+        {% else %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">&nbsp;</a>
+{% endif %} 
         <a href="#" class="center">{{ paginator.page }} of {{ paginator.total_pages }}</a>
-
+ {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path }}" class="next">Older posts &raquo;</a>
-
+        {% else %}
+        <a href="{{ paginator.next_page_path }}" class="next">&nbsp;</a>
+{% endif %} 
     </div>
 </div>
