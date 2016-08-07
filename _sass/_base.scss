@@ -85,11 +85,15 @@ dl, dd, ol, ul, figure {
 .PageNavigation .next {
   text-align: right;
     display: block;
+  width: auto;
+  overflow: hidden;
 }
 
 .PageNavigation .prev {
   text-align: left;
     display: block;
+  width: auto;
+  overflow: hidden;
 }
 
 /**
