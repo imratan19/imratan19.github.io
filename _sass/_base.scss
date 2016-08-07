@@ -65,11 +65,11 @@ dl, dd, ol, ul, figure {
 }
 
 .pagination{
-  font-size: 15px;
+  font-size:  $small-font-size;
 }
 
 .PageNavigation {
-  font-size: 15px;
+  font-size:  $small-font-size
   display: block;
   width: auto;
   overflow: hidden;
