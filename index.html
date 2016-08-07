@@ -22,21 +22,7 @@ category: shorts
 
     </ul>
     <!-- Pagination links -->
-    <!--div class="pagination">
-        <div class="pagination">
-            {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a> {% else %}
-            <span>&laquo; Prev</span> {% endif %} {% for page in (1..paginator.total_pages) %} {% if page == paginator.page %}
-            <em>{{ page }}</em> {% elsif page == 1 %}
-            <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a> {% else %}
-            <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a> {% endif %} {% endfor %} {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a> {% else %}
-            <span>Next &raquo;</span> {% endif %}
-        </div>
-
-
-    </div-->
-    <div class="PageNavigation">
+    <!--div class="PageNavigation">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">&#8592; Newer posts</a>
         {% endif %} 
@@ -44,5 +30,14 @@ category: shorts
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path }}" class="next">Older posts &#8594;</a>
     {% endif %}
+  </div-->
+    <div class="PageNavigation">
+   
+      <a href="{{ paginator.previous_page_path }}" class="previous">&#8592; Newer posts</a>
+       
+        <a href="#" class="center">{{ paginator.page }} of {{ paginator.total_pages }}</a>
+    
+      <a href="{{ paginator.next_page_path }}" class="next">Older posts &#8594;</a>
+    
   </div>
 </div>

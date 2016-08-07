@@ -88,6 +88,9 @@ dl, dd, ol, ul, figure {
 .PageNavigation .center {
   text-align: center; }
 
+.PageNavigation .previous {
+  text-align: left; }
+
 /**
  * Basic styling
  */
