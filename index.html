@@ -15,7 +15,7 @@ category: shorts
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
 
-            <div align=justify>{{ post.content | strip_html | truncatewords:58}}</div>
+            <div align=justify>{{ post.content | strip_html | truncatewords:31}}</div>
             <span class="post-meta"> <a href="{{ post.url | prepend: site.baseurl }}">more...</a></span>
         </li>
         {% endfor %}
