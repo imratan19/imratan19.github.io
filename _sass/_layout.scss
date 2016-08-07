@@ -6,9 +6,10 @@
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
-    // Positioning context for the mobile navigation icon
-    position: fixed;
+    // Positioning context for the mobile navigation icon 
+    position: fixed; //realtive
     width: 100%;
+    background-color: $background-color;
 }
 
 .site-title {
