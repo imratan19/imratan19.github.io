@@ -40,7 +40,7 @@ category: shorts
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">&#8592; Newer posts</a>
         {% else %}
-        <a href="#" class="previous">&#8592; Newer posts</a>
+        <a href="/" class="previous">&#8592; Newer posts</a>
         {% endif %} 
         <a href="#" class="center">{{ paginator.page }} of {{ paginator.total_pages }}</a>
     {% if paginator.next_page %}
