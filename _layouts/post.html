@@ -2,10 +2,19 @@
 layout: default
 ---
 <!-- this file is reqd as the post.md default layout is post -->
-<span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
+<!--span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
 <h2 class=post-link>    
           {{ page.title | escape }}
        
 </h2>
 
 <span align=justify>{{ content }}</span>
+-->
+
+
+ <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+        </h2>
+
+            <div align=justify>{{ post.content }}</div>
