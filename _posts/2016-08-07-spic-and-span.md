@@ -13,5 +13,3 @@ well, i'm pleased to announce that my [blog](http://blog.ratan.me) is live now w
 afterall, as toni morrison said:
 
 > If there's a book that you want to read, but it hasn't been written yet, then you must write it.
-
-m
