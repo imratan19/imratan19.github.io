@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "spic-and-span"
+title:  "spic and span"
 date:   2016-08-07 02:19:01 +0530
 categories: shorts
 ---
