@@ -2,11 +2,11 @@
 layout: default
 ---
 <!-- this file is reqd as the post.md default layout is post -->
-<div class="home">
+<div class="home" align=justify>
 <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
 <h2 class=post-link>{{ page.title | escape }}</h2>
 
-<span align=justify>{{ content }}</span>
+{{ content }}
     </div>
 <div align=center>
           {% include share.html %}</div>
