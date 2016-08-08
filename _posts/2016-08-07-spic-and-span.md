@@ -11,4 +11,4 @@ i tried many blogging platforms on the web (both paid and free). none of which a
 well, i'm pleased to announce that my [blog](http://blog.ratan.me) is live now with the functionality that i wished for.
 
 afterall, as toni morrison said:
-<p>>If there's a book that you want to read, but it hasn't been written yet, then you must write it.</p>
+> If there's a book that you want to read, but it hasn't been written yet, then you must write it.
