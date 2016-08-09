@@ -1,5 +1,3 @@
-@import
-        "../css/gfont.min.css",
-        "../css/icons.min.css",
-        "../css/font-awesome.min.css"
-;
+@import url("../css/gfont.min.css");
+@import url("../css/icons.min.css");
+@import url("../css/font-awesome.min.css");
