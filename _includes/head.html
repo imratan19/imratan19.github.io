@@ -20,12 +20,18 @@
     {% endif %}
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=12.0, minimum-scale=.25, user-scalable=yes"/>
   <meta http-equiv="Cache-Control" content="max-age=86400">
-  <!--link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,200,400" rel="stylesheet" type="text/css" /-->
-   <link href='../css/gfont.min.css' rel="stylesheet" type="text/css" />
+  <!--link href='../css/gfont.min.css' rel="stylesheet" type="text/css" --/>
     <link rel="shortcut icon" href="../assets/favicon.ico" type="image/x-icon">
     <link rel="icon" href="../assets/favicon.ico" type="image/x-icon">
     <link href='../css/main.min.css' rel='stylesheet' type='text/css'>
-    <link href='../css/icons.min.css' rel='stylesheet' type='text/css'>
+    <!--link href='../css/icons.min.css' rel='stylesheet' type='text/css'-->
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link rel="alternate" type="application/rss+xml" title="rss" href="/feed.xml">
 </head>
+  <script type="text/javascript">
+          var stylesheet = document.createElement('link');
+          stylesheet.href = 'style.css';
+          stylesheet.rel = 'stylesheet';
+          stylesheet.type = 'text/css';
+          document.getElementsByTagName('head')[0].appendChild(stylesheet);
+    </script>
