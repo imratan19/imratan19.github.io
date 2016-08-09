@@ -28,7 +28,7 @@
     <!--link rel="stylesheet" href="../css/font-awesome.min.css"-->
     <link rel="alternate" type="application/rss+xml" title="rss" href="/feed.xml">
 
-<script>
+<!--script>
 var cb = function() {
 var l = document.createElement('link'); l.rel = 'stylesheet';
 l.href = '../css/style.css';
@@ -38,6 +38,36 @@ var raf = requestAnimationFrame || mozRequestAnimationFrame ||
 webkitRequestAnimationFrame || msRequestAnimationFrame;
 if (raf) raf(cb);
 else window.addEventListener('load', cb);
+</script-->
+<script>
+var cb = function(){
+  var styles = ["../css/gfont.min.css", "../css/font-awesome.min.css", "../css/icons.min.css"];
+  for( var i = styles.length - 1; i >= 0; i-- )
+  {
+    l = document.createElement( 'link' );
+    l.rel = 'stylesheet';
+    l.href = styles[i];
+    h = document.getElementsByTagName( 'head' )[0];
+    h.insertBefore( l, h.childNodes[h.childNodes.length-1] );
+  };
+};
+
+var raf = ( "undefined" != typeof requestAnimationFrame ) ? requestAnimationFrame : false ||
+    ( "undefined" != typeof mozRequestAnimationFrame ) ? mozRequestAnimationFrame : false ||
+    ( "undefined" != typeof webkitRequestAnimationFrame ) ? webkitRequestAnimationFrame : false ||
+    ( "undefined" != typeof msRequestAnimationFrame ) ? msRequestAnimationFrame : false;
+
+if( raf )
+{
+  raf( cb );
+}
+else
+{
+  if( "undefined" != typeof window.addEventListener )
+    window.addEventListener( 'load', cb );
+  else if( "undefined" != typeof window.attachEvent )
+    window.attachEvent( 'onload', cb );
+}
 </script>
 <noscript>your browser does not support javascript.</noscript>
 </head>
