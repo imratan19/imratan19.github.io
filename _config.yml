@@ -17,3 +17,6 @@ gems: [jekyll-paginate, jekyll-coffeescript, jekyll-watch, jekyll-assets]
 paginate: 5 # number of posts you want per page
 #paginate_path: "/blog/"
 paginate_path: "/blog/page:num/"
+sass:
+  sass_dir: _sass
+  style: compressed
