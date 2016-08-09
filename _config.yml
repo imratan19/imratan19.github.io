@@ -9,7 +9,7 @@ nav-search: search
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:title
+permalink: /:title
 theme: minima
 
 gems: [jekyll-paginate]
