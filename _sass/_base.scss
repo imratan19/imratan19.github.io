@@ -1,4 +1,4 @@
-
+/*pagination style*/
 blockquote,
 body,
 dd,
@@ -37,6 +37,11 @@ ul {
 }
 .PageNavigation .previous {
     text-align: left
+}
+
+.PageNavigation,
+.pagination {
+    font-size: $small-font-size
 }
 
 /**
