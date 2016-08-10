@@ -72,10 +72,7 @@
     font-size: 44px;
     font-weight: plain
 }
-.PageNavigation,
-.pagination {
-    font-size: $small-font-size
-}
+
 .close:focus,
 .close:hover {
     color: #bbb;
