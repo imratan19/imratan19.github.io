@@ -1,4 +1,43 @@
 
+blockquote,
+body,
+dd,
+dl,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+ol,
+p,
+pre,
+ul {
+    margin: 0;
+    padding: 0
+}
+.PageNavigation {
+    display: block;
+    width: auto;
+    overflow: hidden
+}
+.PageNavigation a {
+    display: block;
+    width: 33.33%;
+    float: left;
+    margin: 1em 0
+}
+.PageNavigation .next {
+    text-align: right
+}
+.PageNavigation .center {
+    text-align: center
+}
+.PageNavigation .previous {
+    text-align: left
+}
 
 /**
  * Basic styling
