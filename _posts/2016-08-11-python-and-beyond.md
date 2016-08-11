@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "TO PYTHON AND BEyond"
+title:  "to python and beyond"
 date:   "2016-08-11 16:19:19 +0530"
 categories: shorts
 ---
-I haD AN OVERWhelming tryst wITH HTML5, CSS3 AND jekYlL WHILE REFRESHING The AESTHETICS OF MY BLOG, RECENTLY. IN THE PROCESS, I not only BRushed up my css sKILLS, but also RAN INto THE LATEST WEB TECHNOLOGIES THAT've [transformed](http://www.magicwebsolutions.co.uk/blog/the-benefits-of-web-based-applications.htm){:target="TRANSFORM"} the web.
+i had an overwhelming tryst with html5, css3 and jekyll while refreshing the aesthetics of my blog, recently. in the process, i not only brushed up my css skills, but also ran into the latest web technologies that've [transformed](http://www.magicwebsolutions.co.uk/blog/the-benefits-of-web-based-applications.htm){:target="transform"} the web.
 
-TODAY'S web-browser is no longer a piece of software that displays static html pages but a platform that STAGES mission critical applications that perform complex transactions.
+today's web-browser is no longer a piece of software that displays static html pages but a platform that stages mission critical applications that perform complex transactions.
 
-I'VE been AN ORACLE database developer for more than a decade now. THE SIMPLICITY OF THE WEB PROGRAMMING LANGUAGES attract me; LIGHTWEIGHT APPLICATIONS WITH CATCHY AESTHETICS can BE DEVELOPED IN A JIFFY and with JuST A FEW LINES OF CODE.
+i've been an oracle database developer for more than a decade now. the simplicity of the web programming languages attract me; lightweight applications with catchy aesthetics can be developed in a jiffy and with just a few lines of code.
 
-in order TO TEST THE "WEB development" WATERS, i CHOSE python AS IT CAME BUNDLEd with MY MAC. THIS GIVES ME THE FREEDOM TO DIVE INTO THE NAUNCES OF THE LANGUAGE DIRECTLY WITHOUT MUCH ado. alSo, pythON POWERS SOME OF THE BEST WEBSITES IN THE WORLD SUCH as google, youtube, dropbox ANd many more. 
+in order to test the "web development" waters, i chose python as it came bundled with my mac. this gives me the freedom to dive into the naunces of the language directly without much ado. also, python powers some of the best websites in the world such as google, youtube, dropbox and many more. 
 
-WELL, MY PYthon JOURNEY BEGINS WITH [zed SHAW](http://learnpythonthehardway.org/book/index.html){:target="SHAW"} and i hOPE TO MASTER IT in no time.
+well, my python journey begins with [zed shaw](http://learnpythonthehardway.org/book/index.html){:target="shaw"} and i hope to master it in no time.
