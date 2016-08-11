@@ -208,11 +208,15 @@
     }
 }
 
+
+.post-content a:link    {color:#22c8ff;text-decoration:none;}
+.post-content a:visited {color:#22c8ff;}
+.post-content a:hover   {color:#22c8ff;}
+.post-content a:active  {color:#22c8ff;}
+
+
 .post-content {
-   a:link    {color:#22c8ff;text-decoration:none;}
-a:visited {color:#22c8ff;}
-a:hover   {color:#22c8ff;}
-a:active  {color:#22c8ff;}
+
 
     margin-bottom: $spacing-unit;
 
