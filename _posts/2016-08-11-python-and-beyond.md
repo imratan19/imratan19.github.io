@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "to python and beyond"
+title:  "to catch python and beyond"
 date:   "2016-08-11 16:19:19 +0530"
 categories: tech
 ---
