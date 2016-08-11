@@ -209,15 +209,13 @@
 }
 
 
-.post-content a:link    {color:#22c8ff;text-decoration:none;}
-.post-content a:visited {color:#22c8ff;}
-.post-content a:hover   {color:#22c8ff;}
-.post-content a:active  {color:#22c8ff;}
+a.post-content:link    {color:#22c8ff;text-decoration:none;}
+a.post-content:visited {color:#22c8ff;}
+a.post-content:hover   {color:#22c8ff;}
+a.post-content:active  {color:#22c8ff;}
 
 
 .post-content {
-
-
     margin-bottom: $spacing-unit;
 
     h2 {
