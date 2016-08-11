@@ -10,6 +10,6 @@ TODAY'S web-browser is no longer a piece of software that displays static html p
 
 I'VE been AN ORACLE database developer for more than a decade now. THE SIMPLICITY OF THE WEB PROGRAMMING LANGUAGES attract me; LIGHTWEIGHT APPLICATIONS WITH CATCHY AESTHETICS can BE DEVELOPED IN A JIFFY and with JuST A FEW LINES OF CODE.
 
-in order TO TEST THE "WEB development" WATERS, i CHOSE python AS IT CAME BUNDLEd with MY MAC. THIS GIVES ME THE FREEDOM TO DIVE INTO THE NAUNCES OF THE LANGUAGE DIRECTLY WITHOUT MUCH ado. alSo, pythON IS EXETREMELY POWERFUL AS IT POWERS SOME OF THE BEST WEBSITES IN THE WORLD SUCH as google, youtube, dropbox ANd many more. 
+in order TO TEST THE "WEB development" WATERS, i CHOSE python AS IT CAME BUNDLEd with MY MAC. THIS GIVES ME THE FREEDOM TO DIVE INTO THE NAUNCES OF THE LANGUAGE DIRECTLY WITHOUT MUCH ado. alSo, pythON IS EXTREMELY POWERFUL AS IT POWERS SOME OF THE BEST WEBSITES IN THE WORLD SUCH as google, youtube, dropbox ANd many more. 
 
 WELL, MY PYthon JOURNEY BEGINS WITH [zed SHAW](http://learnpythonthehardway.org/book/index.html){:target="SHAW"} and i hOPE TO MASTER IT in no time.
