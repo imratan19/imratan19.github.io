@@ -2,7 +2,7 @@
 layout: post
 title:  "to python and beyond"
 date:   "2016-08-11 16:19:19 +0530"
-categories: shorts
+categories: tech
 ---
 i had an overwhelming tryst with html5, css3 and jekyll while refreshing the aesthetics of my blog, recently. in the process, i not only brushed up my css skills, but also ran into the latest web technologies that've [transformed](http://www.magicwebsolutions.co.uk/blog/the-benefits-of-web-based-applications.htm){:target="transform"} the web.
 
