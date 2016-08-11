@@ -12,36 +12,25 @@ category: shorts
         <li>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+          </h2>
 
-            <!--div align=justify>{{ post.content | strip_html | truncatewords:31}}</div>
-            <span class="post-meta"> <a href="{{ post.url | prepend: site.baseurl }}">more...</a></span-->
-        </li>
-        {% endfor %}
+      </li>
+      {% endfor %}
 
-    </ul>
-    <!-- Pagination links -->
-    <!--div class="PageNavigation">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">&#8592; Newer posts</a>
-        {% endif %} 
-        <a href="#" class="center">{{ paginator.page }} of {{ paginator.total_pages }}</a>
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next">Older posts &#8594;</a>
-    {% endif %}
-  </div-->
-    <div class="PageNavigation">
- {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; Newer posts</a>
-        {% else %}
-        <a style="text-decoration: none;" class="previous">&nbsp;</a>
-{% endif %} 
-        <a style="text-decoration: none;" class="center">{{ paginator.page }} of {{ paginator.total_pages }}</a>
- {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Older posts &raquo;</a>
-        {% else %}
-        <a style="text-decoration: none;" class="next">&nbsp;</a>
-{% endif %} 
-    </div>
+  </ul>
+
+  <div class="PageNavigation">
+   {% if paginator.previous_page %}
+   <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; Newer posts</a>
+   {% else %}
+   <a style="text-decoration: none;" class="previous">&nbsp;</a>
+   {% endif %} 
+   <a style="text-decoration: none;" class="center">{{ paginator.page }} of {{ paginator.total_pages }}</a>
+   {% if paginator.next_page %}
+   <a href="{{ paginator.next_page_path }}" class="next">Older posts &raquo;</a>
+   {% else %}
+   <a style="text-decoration: none;" class="next">&nbsp;</a>
+   {% endif %} 
+</div>
 </div>

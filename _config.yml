@@ -10,7 +10,7 @@ nav-search: search
 # Build settings
 markdown: kramdown
 permalink: /:title
-theme: minima
+#theme: minima
 
 gems: [jekyll-paginate]
 gems: [jekyll-paginate, jekyll-coffeescript, jekyll-watch, jekyll-assets]

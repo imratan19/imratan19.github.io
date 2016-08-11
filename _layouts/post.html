@@ -3,29 +3,29 @@ layout: default
 ---
 <!-- this file is reqd as the post.md default layout is post -->
 <div class="home" align=justify>
-<span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
-<h2 class=post-link>{{ page.title | escape }}</h2>
+  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
+  <h2 class=post-link>{{ page.title | escape }}</h2>
 
-{{ content }}
-    </div>
-<div align=center>
-          {% include share.html %}</div>
-
-<div class="PageNavigation">
-  {% if page.previous.url %}
-    <a class="prev" href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
- {% else %}
-        <a class="previous" style="text-decoration: none;">&nbsp;</a>
-  {% endif %}
-    <a class="center" style="text-decoration: none;">&nbsp;</a>
-  {% if page.next.url %}
-    <a href="{{ page.next.url }}" class="next">{{ page.next.title }} &raquo;</a></div>
- {% else %}
-        <a class="next" style="text-decoration: none;">&nbsp;</a>
-  {% endif %}
+  {{ content }}
 </div>
+<div align=center>
+  {% include share.html %}</div>
 
-<script>
+  <div class="PageNavigation">
+    {% if page.previous.url %}
+    <a class="prev" href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+    {% else %}
+    <a class="previous" style="text-decoration: none;">&nbsp;</a>
+    {% endif %}
+    <a class="center" style="text-decoration: none;">&nbsp;</a>
+    {% if page.next.url %}
+    <a href="{{ page.next.url }}" class="next">{{ page.next.title }} &raquo;</a></div>
+    {% else %}
+    <a class="next" style="text-decoration: none;">&nbsp;</a>
+    {% endif %}
+  </div>
+
+  <script>
 // Get the modal
 var modal = document.getElementById('myModal');
 
@@ -34,10 +34,10 @@ var img = document.getElementById('myImg');
 var modalImg = document.getElementById("img01");
 var captionText = document.getElementById("caption");
 img.onclick = function(){
-    modal.style.display = "block";
-    modalImg.src = this.src;
-    modalImg.alt = this.alt;
-    captionText.innerHTML = this.alt;
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  modalImg.alt = this.alt;
+  captionText.innerHTML = this.alt;
 }
 
 // Get the <span> element that closes the modal
@@ -45,6 +45,6 @@ var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks on <span> (x), close the modal
 span.onclick = function() {
-    modal.style.display = "none";
+  modal.style.display = "none";
 }
 </script>

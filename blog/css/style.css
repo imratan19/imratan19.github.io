@@ -1,2 +1,6 @@
+/* 
+this file is no longer used as @import is not
+supported by older browsers
+*/
 @import url("../css/icons.min.css");
 @import url("../css/font-awesome.min.css");

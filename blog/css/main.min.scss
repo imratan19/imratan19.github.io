@@ -38,95 +38,95 @@ $on-laptop:        800px;
 //     }
 // }
 @mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+@media screen and (max-width: $device) {
+@content;
+}
 }
 
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+"base",
+"layout",
+"syntax-highlighting"
 ;
 
 
 
 /* date */
 .post .date{
-	color:#666666;
-	font-style:italic;
+color:#666666;
+font-style:italic;
 }
 
 #related {
-	margin-top: 2em;
+margin-top: 2em;
 }
 
 #related h2 {
-	margin-bottom: 1em;
+margin-bottom: 1em;
 }
 
 #related ul, ol {
-  margin-left: 10px;
+margin-left: 10px;
 }
 
 .related_left {
-	float:left;
-	width:45%;
+float:left;
+width:45%;
 }
 
 .related_right {
-	float:right;
+float:right;
 }
 
 .view_comments_link {
-	font-size:12px;
-	text-align:right;
-	margin-top:10px;
+font-size:12px;
+text-align:right;
+margin-top:10px;
 }
 
 /* Display last.fm chart */
 #lastfm_chart {
-    position:fixed;
-    bottom:10px;
-    right:10px;
-    z-index:1000;
+position:fixed;
+bottom:10px;
+right:10px;
+z-index:1000;
 }
 
 #twitter_follow {
-    position:fixed;
-    top:1%;
-    left:2%;
-    z-index:1000;
+position:fixed;
+top:1%;
+left:2%;
+z-index:1000;
 }
 
 .post {
-  margin-bottom: 50px;
+margin-bottom: 50px;
 }
 
 ul.posts {
-  list-style-type: none;
+list-style-type: none;
 }
 
 ul.posts span {
-	color: #aaa;
-	font-family: Monaco, "Courier New", monospace;
-	font-size: 80%;
+color: #aaa;
+font-family: Monaco, "Courier New", monospace;
+font-size: 80%;
 }
 
 .view_comments_link {
-	font-size:12px;
-	text-align:right;
-	margin-top:10px;
+font-size:12px;
+text-align:right;
+margin-top:10px;
 }
 
 hr {
-  margin-bottom: 20px;
+margin-bottom: 20px;
 }
 
 @media screen and (min-width: 0px) and (max-width: 900px) {
-    #lastfm_chart { display: none; }  /* show it on small screens */
-    #twitter_follow {display: none; }
+#lastfm_chart { display: none; }  /* show it on small screens */
+#twitter_follow {display: none; }
 }
