@@ -84,12 +84,7 @@
         width: 100%
     }
 }
-.cse input.gsc-input,
-input.gsc-input {
-    background-image: url(“../assets/image.gif”)!important;
-    background-repeat: no-repeat;
-    background-color: #fff
-}
+
 cse input.gsc-input:focus,
 input.gsc-input:focus {
     background-image: none!important
