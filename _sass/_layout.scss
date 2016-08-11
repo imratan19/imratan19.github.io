@@ -209,11 +209,19 @@
 }
 
 
-a.page-content:link    {color:#22c8ff;text-decoration:none;}
-a.page-content:visited {color:#22c8ff;}
-a.page-content:hover   {color:#22c8ff;}
-a.page-content:active  {color:#22c8ff;}
-
+p a:link {
+    color: #22c8ff;
+    text-decoration:none;
+}
+p a:hover {
+    color: #22c8ff;
+}
+p a:visited {
+    color: #22c8ff;
+}
+p a:active {
+    color: #22c8ff;
+} /* ratan */
 
 .post-content {
     margin-bottom: $spacing-unit;
