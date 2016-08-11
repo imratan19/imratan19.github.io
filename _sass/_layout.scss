@@ -168,6 +168,11 @@
     padding: $spacing-unit 0;
 }
 
+.page-content:link    {color:#22c8ff;text-decoration:none;}
+.page-content:visited {color:#22c8ff;}
+.page-content:hover   {color:#22c8ff;}
+.page-content:active  {color:#22c8ff;}
+
 .page-heading {
     font-size: 20px;
 }
