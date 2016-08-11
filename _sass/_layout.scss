@@ -211,10 +211,11 @@
 
 p a:link {
     color: #22c8ff;
-    text-decoration:underline;
+    text-decoration:none;
 }
 p a:hover {
     color: #22c8ff;
+    text-decoration:underline;
 }
 p a:visited {
     color: #22c8ff;
