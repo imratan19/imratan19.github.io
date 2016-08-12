@@ -30,13 +30,13 @@ float: left;
 margin: 1em 0
 }
 .PageNavigation .next {
-text-align: right
+text-align: left // cemtered the controls
 }
 .PageNavigation .center {
 text-align: center
 }
 .PageNavigation .previous {
-text-align: left
+text-align: right // cemtered the controls
 }
 
 .PageNavigation,
