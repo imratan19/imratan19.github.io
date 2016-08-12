@@ -22,13 +22,13 @@ category: shorts
 
   <div class="PageNavigation">
    {% if paginator.previous_page %}
-   <a href="{{ paginator.previous_page_path }}" class="previous">&larr;</a>
+   <a href="{{ paginator.previous_page_path }}" class="previous" STYLE="TExt-decoration:NONE">&larr;</a>
    {% else %}
    <a style="text-decoration: none;" class="previous">&nbsp;</a>
    {% endif %} 
    <a style="text-decoration: none;" class="center">{{ paginator.page }} of {{ paginator.total_pages }}</a>
    {% if paginator.next_page %}
-   <a href="{{ paginator.next_page_path }}" class="next">&rarr;</a>
+   <a href="{{ paginator.next_page_path }}" class="next" STYLE="TExt-decoration:NONE">&rarr;</a>
    {% else %}
    <a style="text-decoration: none;" class="next">&nbsp;</a>
    {% endif %} 
