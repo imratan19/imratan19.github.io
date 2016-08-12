@@ -3,6 +3,8 @@ layout: post
 title:  "catching up with python"
 date:   "2016-08-11 16:19:19 +0530"
 categories: tech
+description: "python latest web technologies google ruby jekyll web browser chrome"
+author: ratan
 ---
 i had an overwhelming tryst with html5, css3 and [jekyll](http://jekyllrb.com){:target="pb"} while refreshing the aesthetics of my blog, recently. in the process, i not only brushed up my css skills, but also ran into the latest web technologies that've [transformed](http://www.magicwebsolutions.co.uk/blog/the-benefits-of-web-based-applications.htm){:target="pb"} the web.
 
