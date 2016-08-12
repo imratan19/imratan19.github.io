@@ -114,6 +114,7 @@ margin-left: 0;
 font-size: 15px;
 color: $grey-color;
 margin-left: -$spacing-unit / 2;
+margin-right: -$spacing-unit / 2; // center aligned the footer content
 @extend %clearfix;
 }
 
