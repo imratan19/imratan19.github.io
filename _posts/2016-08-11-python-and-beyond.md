@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "catching up with python"
+title:  "taming the python"
 date:   "2016-08-11 16:19:19 +0530"
 categories: tech
 description: "the author is overwhelmed with the latest web technologies while experimenting with html, css and jekyll for coding this blog from scratch. he wants to explore latest developments in the web and therfore decides to pursue the most popular web programming language - python."
