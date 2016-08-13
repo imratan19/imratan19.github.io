@@ -5,7 +5,7 @@ date:   "2016-08-11 16:19:19 +0530"
 categories: tech
 description: "the author is overwhelmed with the latest web technologies while experimenting with html, css and jekyll for coding this blog from scratch. he wants to explore latest developments in the web and therfore decides to pursue the most popular web programming language - python."
 author: ratan
-image: /assets/posts/py.png
+image: ../assets/posts/py.png
 ---
 i had an overwhelming tryst with html5, css3 and [jekyll](http://jekyllrb.com){:target="pb"} while refreshing the aesthetics of my blog, recently. in the process, i not only brushed up my css skills, but also ran into the latest web technologies that've [transformed](http://www.magicwebsolutions.co.uk/blog/the-benefits-of-web-based-applications.htm){:target="pb"} the web.
 
