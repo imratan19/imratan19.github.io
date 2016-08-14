@@ -70,7 +70,7 @@
     right: 35px;
     color: #fff;
     font-size: 66px;
-    font-weight: bold;
+    font-weight: plain;
 }
 
 .close:focus,
@@ -81,7 +81,7 @@
 }
 @media only screen and (max-width:700px) {
     .modal-content {
-        width: 80%
+        width: 100%
     }
 }
 
