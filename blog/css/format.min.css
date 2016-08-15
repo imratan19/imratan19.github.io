@@ -46,14 +46,14 @@
     -webkit-animation-duration: .6s;
     animation-name: zoom;
     animation-duration: .6s;
-    transform: scale(0.6);
+    transform: scale(0.8);
 }
 @-webkit-keyframes zoom {
     from {
         -webkit-transform: scale(0)
     }
     to {
-        -webkit-transform: scale(0.6)
+        -webkit-transform: scale(0.8)
     }
 }
 @keyframes zoom {
@@ -61,13 +61,13 @@
         transform: scale(0)
     }
     to {
-        transform: scale(0.6)
+        transform: scale(0.8)
     }
 }
 .close {
     position: absolute;
     top: 0px;
-    right: 25px;
+    right: 35px;
     color: #fff;
     font-size: 66px;
     font-weight: plain;
@@ -81,7 +81,7 @@
 }
 @media only screen and (max-width:700px) {
     .modal-content {
-        width: 60%
+        width: 80%
     }
 }
 
