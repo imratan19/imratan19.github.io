@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "buoyancy [loop-ii]"
+title:  "buoyancy (time loop-ii)"
 date:   "2016-08-28 00:01:01 +0530"
 categories: doodles
 description: a webcomic in two time loops.
