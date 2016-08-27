@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "buoyancy ep-ii"
-date:   "2016-08-28 01:01:01 +0530"
+date:   "2016-08-28 00:01:01 +0530"
 categories: doodles
 description: a webcomic in two episodes.
 image: http://blog.ratan.me/doodles/b_ii.JPG
