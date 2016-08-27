@@ -4,10 +4,10 @@ title:  "buoyancy ep-ii"
 date:   "2016-08-28 00:01:01 +0530"
 categories: doodles
 description: a webcomic in two episodes.
-image: http://blog.ratan.me/doodles/b_ii.jpg
+image: http://blog.ratan.me/doodles/b_ii.JPG
 ---
 <figure>
-    <img id="myImg" style="border: 0px solid #000;" src="/doodles/b_ii.jpg" alt="" width="90%" height="90%">
+    <img id="myImg" style="border: 0px solid #000;" src="/doodles/b_ii.JPG" alt="" width="90%" height="90%">
   <figcaption>click on the image to zoom.</figcaption>
 </figure>
 
