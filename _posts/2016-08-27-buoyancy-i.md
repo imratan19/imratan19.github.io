@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "buoyancy ep-i"
+date:   "2016-08-27 23:59:01 +0530"
+categories: doodles
+description: a webcomic in two episodes.
+image: http://blog.ratan.me/doodles/b_i.jpg
+---
+<figure>
+    <img id="myImg" style="border: 0px solid #000;" src="/doodles/b_i.jpg" alt="" width="90%" height="90%">
+  <figcaption>click on the image to zoom.</figcaption>
+</figure>
+
+
+<div id="myModal" class="modal">
+  <span class="close">×</span>
+  <img class="modal-content" id="img01" style="border: 0px solid #000;">
+  <div id="caption"></div>
+</div>
