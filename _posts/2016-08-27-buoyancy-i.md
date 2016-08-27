@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "buoyancy ep-i"
+title:  "buoyancy loop-i"
 date:   "2016-08-27 23:59:01 +0530"
 categories: doodles
-description: a webcomic in two episodes.
+description: a webcomic in two time loops.
 image: http://blog.ratan.me/doodles/b_i.JPG
 ---
 <figure>
