@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "versus t-rex"
-date:   "2016-08-30 11:01:01 +0530"
+date:   "2016-09-02 20:01:01 +0530"
 categories: doodles
 description: obviously t-rex's the winner here.
 image: http://blog.ratan.me/doodles/dino_blues.jpg
