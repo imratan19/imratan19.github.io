@@ -116,7 +116,7 @@ input.gsc-input:focus {
 /* Custom styles */
 
 .corner-ribbon.sticky{
-  position: fixed;
+  position: absolute; /*fixed;*/
 }
 
 .corner-ribbon.shadow{
