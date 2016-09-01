@@ -15,7 +15,7 @@ permalink: /:title
 gems: [jekyll-paginate]
 gems: [jekyll-paginate, jekyll-coffeescript, jekyll-watch, jekyll-assets]
 gems: [jekyll-seo-tag]
-paginate: 4 # number of posts you want per page
+paginate: 7
 #paginate_path: "/blog/"
 paginate_path: "/blog/page:num/"
 sass:
