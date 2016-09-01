@@ -101,14 +101,14 @@ input.gsc-input:focus {
 .corner-ribbon{
   font-size: 15px;
   width: 200px;
-  background: #fff;
+  background: #e43;
   position: absolute;
   top: 25px;
   left: -50px;
   text-align: center;
   line-height: 1.75;
   letter-spacing: 1px;
-  color: red;
+  color: white;
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
   font-weight: bold;
@@ -123,7 +123,7 @@ input.gsc-input:focus {
 .corner-ribbon.shadow{
   /*box-shadow: 0 0 3px rgba(255, 0, 0, 1);*/
     border-style: solid;
-    border-width: 1px 0px 1px 0px;
+    border-width: 0px 0px 0px 0px;
 }
 
 /* Different positions */
@@ -161,4 +161,4 @@ input.gsc-input:focus {
 }
 
 /* Colors */
-.corner-ribbon.red{background: #fff;}
+.corner-ribbon.red{background: #e43;}
