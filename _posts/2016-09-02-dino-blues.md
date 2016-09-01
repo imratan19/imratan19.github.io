@@ -5,6 +5,7 @@ date:   "2016-09-02 20:01:01 +0530"
 categories: doodles
 description: obviously t-rex's the winner here.
 image: http://blog.ratan.me/doodles/dino_blues.jpg
+keywords: web comic, dishkiyaoon, ratan, ratandeep, ratandeep singh, boxing, t rex, jurassic age
 ---
 <figure>
     <img id="myImg" style="border: 1px solid #000;" src="/doodles/dino_blues.jpg" alt="" width="90%" height="90%">
