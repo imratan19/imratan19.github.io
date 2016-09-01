@@ -15,7 +15,7 @@ permalink: /:title
 gems: [jekyll-paginate]
 gems: [jekyll-paginate, jekyll-coffeescript, jekyll-watch, jekyll-assets]
 gems: [jekyll-seo-tag]
-paginate: 5
+paginate: 4
 #paginate_path: "/blog/"
 paginate_path: "/blog/page:num/"
 sass:
