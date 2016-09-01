@@ -111,6 +111,7 @@ input.gsc-input:focus {
   color: red;
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
+  font-weight: bold;
 }
 
 /* Custom styles */
