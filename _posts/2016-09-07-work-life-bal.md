@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "burnt-out"
+title:  "the burnout"
 date:   "2016-09-07 23:29:01 +0530"
 categories: doodles
 description: oveerworked and burntout!
 image: http://blog.ratan.me/doodles/burnout.jpg
-keywords: web comic, dishkiyaoon, overworked, burnt out, burned out, boss, ratan, ratandeep, ratandeep singh, relationship, office politics, corporate, ladder, politics
+keywords: web comic, dishkiyaoon, overworked, burnt out, burned out, boss, ratan, ratandeep, ratandeep singh, relationship, office politics, corporate, ladder, politics, burnout, stress, work life balance, family, office, choose
 ---
 <!--p align=center><img style="border: 0px solid #000;" src="/doodles/warning.jpg" alt="" width="68%" height="68%" /></p-->
 
